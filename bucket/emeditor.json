@@ -1,0 +1,12 @@
+{
+    "homepage": "https://zh-cn.emeditor.com/download/",
+    "version": "19.7.0",
+    "url": "https://support.emeditor.com/en/downloads/latest/portable/64#/dl.7z",
+    "bin": "EmEditor.exe",
+    "shortcuts": [
+        [
+            "EmEditor.exe",
+            "EmEditor"
+        ]
+    ]
+}

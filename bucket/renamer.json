@@ -1,0 +1,14 @@
+{
+    "version": "7.1",
+    "description": "ReNamer is a very powerful and flexible file renaming tool.",
+    "homepage": "https://www.den4b.com/products/renamer",
+    "license": "GPL-3.0-only",
+    "url": "https://code.aliyun.com/chenmigo/scuup/raw/marron/mu/ReNamer.7z",
+    "bin": "ReNamer.exe",
+    "shortcuts": [
+        [
+            "ReNamer.exe",
+            "ReNamer"
+        ]
+    ]
+}
